@@ -32,7 +32,7 @@ class App extends Component {
         <Form handleSubmit={this.handleSubmit} />
       </div>
 
-      //this is a comment
+      //this is a comment and another and another
     )
   }
 }
